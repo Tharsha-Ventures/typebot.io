@@ -88,7 +88,7 @@
     "micro-cors": "0.1.1",
     "nanoid": "5.1.5",
     "next": "15.3.0",
-    "next-auth": "5.0.0-beta.28",
+    "next-auth": "5.0.0-beta.30",
     "nextjs-cors": "2.1.2",
     "nodemailer": "6.9.15",
     "nprogress": "0.2.0",
