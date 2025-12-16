@@ -13,7 +13,7 @@
     "partysocket": "1.0.2",
     "@planetscale/database": "1.8.0",
     "@sentry/nextjs": "9.5.0",
-    "@trpc/server": "11.3.1",
+    "@trpc/server": "11.8.0",
     "trpc-to-openapi": "2.3.1",
     "@typebot.io/bot-engine": "workspace:*",
     "@typebot.io/react": "workspace:*",
