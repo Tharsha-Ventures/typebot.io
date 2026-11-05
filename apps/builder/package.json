@@ -99,7 +99,7 @@
     "pexels": "^1.4.0",
     "posthog-node": "4.3.2",
     "prettier": "2.8.8",
-    "qs": "6.11.2",
+    "qs": "6.16.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-markdown": "^9.0.1",
